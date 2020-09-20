@@ -13,12 +13,12 @@ author: Fábio Madeira
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-# baseurl: 
+# baseurl:
 baseurl:  /resume/
 title: Robert Bryan Resume
 name: Robert Bryan
-email: bryarobert@gmail.com
-email_full: mailto:bryarobert@gmail.com
+email: robert.bell.bryan@gmail.com
+email_full: mailto:robert.bell.bryan@gmail.com
 website: brayn7.github.com
 website_full: https://brayn7.github.io/
 github: brayn7
@@ -26,10 +26,10 @@ github: brayn7
 tel: (859)-983-2560
 tel_full: (859)-983-2560
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 511 W Margaret dr.
-postcode: 40390
-city: Wilmore
-country: Kentucky
+#address: 511 W Margaret dr.
+#postcode: 40390
+#city: Wilmore
+#country: Kentucky
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
